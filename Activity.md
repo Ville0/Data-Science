@@ -1,3 +1,4 @@
+#Activity
 
 **1. Open your browser and visit google.com**
 
@@ -29,5 +30,5 @@ In above bought searching websites you will fine the bought of them showing same
 All those results the Google showing the best results. Because the Google system predict the new or upcoming word by the result of your history searches. In other hand duckduckgo & Bing are having no idea about what are you searching or what are your history searches so they give same results as mostly ho Ai / system works. 
 
 **How do search engines work?**
-<br/>-Search engines work through three primary functions:<br/>-**Crawling**: Scour the Internet for content, looking over the code/content for each URL they find.
+<br/>- Search engines work through three primary functions:<br/>-**Crawling**: Scour the Internet for content, looking over the code/content for each URL they find.
  <br/> -**Indexing**: Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries. <br/> -**Ranking**: Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
