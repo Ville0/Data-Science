@@ -55,7 +55,7 @@ All those results the Google showing the best results. Because the Google system
 
 
 **11. Do you think that the order of the websites in the search results is important ?**
-<br/>**YES !**the order of the websites in the search results is important !
+<br/> **YES !** the order of the websites in the search results is important !
 
 **12. Try to find which mechanism / formula / algorithm(s) are being used to order the results.**
 
