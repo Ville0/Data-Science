@@ -23,3 +23,13 @@ Yes there is a pattern you will notice that each time you search in Google will 
 ![4](https://user-images.githubusercontent.com/57193804/115974388-d5b38200-a575-11eb-82b6-933bb7c2e559.jpg)
 
 In above bought searching websites you will fine the bought of them showing same results !!! 
+
+**7. Which search engine's list of suggestion is better and why ?**
+
+All those results the Google showing the best results. Because the Google system predict the new or upcoming word by the result of your history searches. In other hand duckduckgo & Bing are having no idea about what are you searching or what are your history searches so they give same results as mostly ho Ai / system works. 
+
+**How do search engines work?**
+-Search engines work through three primary functions:
+-**Crawling**: Scour the Internet for content, looking over the code/content for each URL they find.
+-**Indexing**: Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries.
+-**Ranking**: Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
