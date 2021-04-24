@@ -11,4 +11,15 @@
 
 **4. What do you observe in the list of suggestion? Are there any patterns ?** **Are there any patterns ?**
 
-Yes there is a pattern you will notice that each time you search in Google will update the suggestions try this in another system or incognito mode you will find the difference
+Yes there is a pattern you will notice that each time you search in Google will update the suggestions try this in another system or incognito mode you will find the difference results. the pattern based on previous searches and results
+
+
+**5. Repeat steps 2 to 4 but this time use duckduckgo.com**
+
+![3](https://user-images.githubusercontent.com/57193804/115974360-8ec58c80-a575-11eb-9f0a-e69888347762.jpg)
+
+**Repeat step 2 to 4 and this time use bing.com**
+
+![4](https://user-images.githubusercontent.com/57193804/115974388-d5b38200-a575-11eb-82b6-933bb7c2e559.jpg)
+
+In above bought searching websites you will fine the bought of them showing same results !!! 
