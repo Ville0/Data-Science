@@ -68,8 +68,8 @@ Search algorithms work as a large collection of other algorithms and formulas, e
 **How do search engines work ?**
 Search engines work through three primary functions:
 
-1.Crawling: Scour the Internet for content, looking over the code/content for each URL they find.<br/>
-2.Indexing: Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries.<br/>
-3.Ranking: Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
+1.Crawling: <br/>Scour the Internet for content, looking over the code/content for each URL they find.<br/>
+2.Indexing: <br/>Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries.<br/>
+3.Ranking: <br/>Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
  
  
