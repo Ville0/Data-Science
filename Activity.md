@@ -27,7 +27,7 @@ In above bought searching websites you will fine the bought of them showing same
 
 All those results the Google showing the best results. Because the Google system predict the new or upcoming word by the result of your history searches. In other hand duckduckgo & Bing are having no idea about what are you searching or what are your history searches so they give same results as mostly ho Ai / system works. 
 
-**How do search engines work?**
+**How do search engines work ?**
 <br/>Search engines work through three primary functions:<br/>**Crawling**: Scour the Internet for content, looking over the code/content for each URL they find.
  <br/>**Indexing**: Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries. <br/>**Ranking**: Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
  
@@ -39,20 +39,25 @@ All those results the Google showing the best results. Because the Google system
 
 ![7](https://user-images.githubusercontent.com/57193804/115974918-ac94f080-a579-11eb-94d5-244c3220ff84.jpg)
 
-**9. Do all search engines return the same result?**
+**9. Do all search engines return the same result ?**
 <br/> No all search suggestion results are different from another only.
 
-**10. Which site is listed in the top 5 results of all 3 search engines?**
-<br/> According to internet research the search engines are <br/> 
-1.	Google<br/> 
-2.	Bing<br/> 
-3.	Baidu<br/> 
-4.	Yahoo!<br/> 
-5.	Yandex<br/> 
-6.	Ask.com<br/> 
-7.	DuckDuckGo<br/> 
+**10. Which site is listed in the top 5 results of all 3 search engines ?**
+<br/>   According to internet research the search engines are <br/> 
+ 1.	Google<br/> 
+ 2.	Bing<br/> 
+ 3.	Baidu<br/> 
+ 4.	Yahoo!<br/> 
+ 5.	Yandex<br/> 
+ 6.	Ask.com<br/> 
+ 7.	DuckDuckGo<br/> 
 
 
+
+**11. Do you think that the order of the websites in the search results is important ?**
+<br/>**YES !**the order of the websites in the search results is important !
+
+**12. Try to find which mechanism / formula / algorithm(s) are being used to order the results.**
 
 
  
