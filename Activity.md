@@ -58,8 +58,7 @@ All those results the Google showing the best results. Because the Google system
 <br/> **YES !** the order of the websites in the search results is important !
 
 **12. Try to find which mechanism / formula / algorithm(s) are being used to order the results.**
-
-
+<br/> A search algorithm is a massive collection of other algorithms, each with its own purpose and task. Here's how it all works.
  
  
  
