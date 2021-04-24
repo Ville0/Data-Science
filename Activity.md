@@ -7,6 +7,9 @@
 
 ![2](https://user-images.githubusercontent.com/57193804/115974012-08a84680-a573-11eb-898b-8096b478a67b.jpg)
 
-**3. Notice as you continue typing a list of suggestion appears**
+**3. You will see there are suggestions are coming each time you tyep any single word in the searchbox**
 
-You will see there are suggestions are coming each time you tyep any single word in the searchbox
+**4. What do you observe in the list of suggestion? Are there any patterns ?**
+**Are there any patterns ?**
+
+Yes there is a pattern you will notice that each time you search in Google will update the suggestions try this in another system or incognito mode you will find the difference
