@@ -58,7 +58,18 @@ All those results the Google showing the best results. Because the Google system
 <br/> **YES !** the order of the websites in the search results is important !
 
 **12. Try to find which mechanism / formula / algorithm(s) are being used to order the results.**
-<br/> A search algorithm is a massive collection of other algorithms, each with its own purpose and task. Here's how it all works.
- 
+
+A search algorithm is a massive collection of other algorithms, each with its own purpose and task. 
+
+**Context Matters**<br/>It’s important to understand how algorithms function to apply context to what you’re experiencing/reading.<br/>When you hear of an algorithm update, it’s important to know that what is being updated is likely a small piece of a very large puzzle. <br/>Knowing this assists in interpreting which aspects of a site or the world are being adjusted in an update and how that adjustment fits into the large objective of the engine.
+
+Search algorithms work as a large collection of other algorithms and formulas, each with its own<br/>purpose and task, to produce results a user will be satisfied with. <br/>In fact, there are algorithms in place to monitor just this aspect of the results and make adjustments where ranking pages are deemed not to satisfy user intent based on how users interact with it. <br/>Included in this are algorithms designed specifically to understand entities and how entities relate to each other in order to provide relevancy and context to the other algorithms.
+
+**How do search engines work ?**
+Search engines work through three primary functions:
+
+1.Crawling: Scour the Internet for content, looking over the code/content for each URL they find.<br/>
+2.Indexing: Store and organize the content found during the crawling process. Once a page is in the index, it’s in the running to be displayed as a result to relevant queries.<br/>
+3.Ranking: Provide the pieces of content that will best answer a searcher's query, which means that results are ordered by most relevant to least relevant.
  
  
