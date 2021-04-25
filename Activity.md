@@ -68,7 +68,7 @@ A search algorithm is a massive collection of other algorithms, each with its ow
 Search algorithms work as a large collection of other algorithms and formulas, each with its own<br/>purpose and task, to produce results a user will be satisfied with. <br/>In fact, there are algorithms in place to monitor just this aspect of the results and make adjustments where ranking pages are deemed not to satisfy user intent based on how users interact with it. <br/>Included in this are algorithms designed specifically to understand entities and how entities relate to each other in order to provide relevancy and context to the other algorithms.
 
 **How do search engines work ?**
-Search engines work through three primary functions:
+<br/>Search engines work through three primary functions:
 
 **1. Crawling:** <br/>searches the web with automated programs called crawlers, looking for pages that are new or updated.stores those page addresses (or page URLs) in a big list to look at later. We find pages by many different methods, but the main method is following links from pages that we already know about.
 <br/>**2. Indexing:** <br/>visits the pages that it has learned about by crawling, and tries to analyze what each page is about. analyzes the content, images, and video files in the page, trying to understand what the page is about. This information is stored in the index, a huge database that is stored on many computers.
