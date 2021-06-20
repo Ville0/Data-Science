@@ -1,4 +1,6 @@
 <h1>Data Sience</h1>
+<p>This is class activity that was assigned by our teacher Dr.Imran Ali.</p>
+<br/>
 
 **1. Open your browser and visit google.com**
 
