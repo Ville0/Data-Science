@@ -75,3 +75,4 @@ Search algorithms work as a large collection of other algorithms and formulas, e
 <br/>**3. Serving search results:** <br/>When a user performs a search, tries to determine the highest quality results. The "best" results have many factors, including things such as the user's location, language, device (desktop or phone), and previous queries. For example, searching for "bicycle repair shops" would show different answers to a user in Paris than it would to a user in Hong Kong. doesn't accept payment to rank pages higher, and ranking is done algorithmically.
 
 END <br/>Thank You!
+<br/> Abdul Rehman.
